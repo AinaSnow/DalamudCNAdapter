@@ -1,14 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0-windows</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
     <AssemblyVersion>1.0.0.2</AssemblyVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DalamudPackager" Version="2.1.4" />
+    <PackageReference Include="DalamudPackager" Version="2.1.11" />
   </ItemGroup>
 
   <ItemGroup>
