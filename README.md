@@ -1,0 +1,2 @@
+# DalamudCNAdapter
+为国际服Dalamud启用中文字体支持方案
